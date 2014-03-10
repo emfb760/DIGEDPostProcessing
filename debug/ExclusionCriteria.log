@@ -1,0 +1,38 @@
+Excluded the following IDs as specified by the user:
+
+2124
+3132
+
+
+Excluded the following IDs for duplicate followup survey entries:
+
+2401
+3001
+3308
+4025
+
+
+Excluded the following IDs for not having zyante/textbook included in survey entry:
+
+NONE
+
+
+Excluded the following IDs for not having a survey entry:
+
+3803
+4039
+
+
+Excluded the following IDs from survey that do not have any quiz entries:
+
+NONE
+
+
+Excluded the following IDs from debug/step1_Zyante.csv for not having a pre vs post quiz identifier:
+
+NONE
+
+
+Excluded the following IDs from debug/step1_Textbook.csv for not having a pre vs post quiz identifier:
+
+NONE

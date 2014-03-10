@@ -1,0 +1,8 @@
+Total Entries: 1965
+Total Participants: 136
+
+Total Excluded Entries: 86
+Total Excluded Participants: 8
+
+Percentage of Entries Remaining: 95.623%
+Percentage of Participants Remaining: 94.118%
